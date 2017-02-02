@@ -1,1 +1,2 @@
-# Lab3
+Cristian Mendivil
+Lab3
