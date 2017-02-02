@@ -1,4 +1,3 @@
-Cristian Mendivil
-This might cause a merge conflict
+Cristian Mendivil This might cause a merge conflict
 Lab3
 
